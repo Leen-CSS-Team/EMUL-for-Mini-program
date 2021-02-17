@@ -1,0 +1,40 @@
+button.solid{
+  height: 40px;
+  width: 100%!important;
+}
+
+button.solid.blue{
+  background-color: #3C96FF;
+    color: white;
+}
+
+button.solid.blue:active{
+  background-color: #0062cc;
+}
+
+button.solid.green{
+  background-color: #3f9965;
+  color: white;
+}
+
+button.solid.green:active{
+  background-color: #157347;
+}
+
+button.solid.yellow{
+  background-color: #ffbb00;
+  color: black;
+}
+
+button.solid.yellow:active{
+  background-color: #ffcd39;
+}
+
+button.solid.red{
+  background-color: #E73D32;
+  color: white;
+}
+
+button.solid.red:active{
+  background-color: #ce3c39;
+}
